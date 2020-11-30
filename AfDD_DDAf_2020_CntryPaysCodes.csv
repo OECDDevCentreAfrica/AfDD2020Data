@@ -1,0 +1,245 @@
+CntryCode,Countries and groupings (EN),Pays et groupements (FR)
+101,Southern Africa,Afrique australe
+102,Central Africa,Afrique centrale
+103,East Africa,Afrique de l'Est
+104,North Africa,Afrique du Nord
+105,West Africa,Afrique de l'Ouest
+110,Africa,Afrique
+120,Latin America and Caribbean,Amérique latine et Caraîbes 
+130,Asia (no high inc.),Asie (pays à revenu élevé exclus)
+140,Other developing,Autres pays en developpmeent
+150,High income (no LAC),Pays à revenu élévé (LAC exclus)
+201,COMESA,COMESA
+202,CEN-SAD,CEN-SAD
+203,EAC,CAE
+204,ECCAS,CEEAC
+205,ECOWAS,CEDEA
+206,IGAD,IGAD
+207,SADC,CDAA
+208,UMA,UMA
+211,ASEAN,ASEAN
+212,MERCOSUR,MERCOSUR
+213,EU28,EU28
+310,Resource-exporting countries,Pays exportateurs de ressources
+311,"Africa, resource-exporting countries","Afrique, pays exportateurs de ressources"
+319,"ROW, resource-exporting countries","RDM, pays exportateurs de ressources"
+320,Non-resource-exporting countries,Pays exportateurs de ressources exclus
+321,"Africa, non-resource-exporting countries",Afrique (pays non exportateurs de ressources exclus)
+329,"ROW, non-resource-exporting countries",RDM (pays exportateurs de ressources exclus)
+410,Low income countries,Pays à faible revenu
+411,"Africa, low income countries","Afrique, pays à faible revenu"
+419,"ROW, low income countries","RDM, pays à faible revenu"
+420,Lower middle income countries,Pays à revenu intermédiaire inférieur
+421,"Africa, lower middle income countries","Afrique, pays à revenu intermédiaire inférieur"
+429,"ROW, lower middle income countries","RDM, pays à revenu intermédiaire inférieur"
+430,Upper middle income countries,Pays à revenu intermédiaire supérieur
+431,"Africa, upper middle income countries","Afrique, pays à revenu intermédiaire supérieur"
+439,"ROW, upper middle income countries","RDM, pays à revenu intermédiaire supérieur"
+440,High income countries (no LAC),Pays à revenu élevé
+510,Least Developed Countries,Pays les moins avancés
+511,"Africa, Least Developed Countries","Afrique, pays les moins avancés"
+519,"ROW, Least Developed Countries","RDM, pays les moins avancés"
+520,Small Island Developing States,Petits États insulaires en développement
+521,"Africa, Small Island Developing States","Afrique, Petits États insulaires en développement"
+529,"ROW, Small Island Developing States","RDM, Petits États insulaires en développement"
+530,Landlocked Developing Countries,Pays en développement sans littoral
+531,"Africa, Landlocked Developing Countries","Afrique, Pays en développement sans littoral"
+539,"ROW, Landlocked Developing Countries","RDM, Pays en développement sans littoral"
+540,Fragile States,États fragiles
+541,"Africa, Fragile States","Afrique, États fragiles"
+549,"ROW, Fragile States","RDM, États fragiles"
+550,Extremely Fragile States,États extrêmement fragiles
+900,World,Monde
+AFG,Afghanistan,Afghanistan
+AGO,Angola*,Angola*
+ALB,Albania,Albanie
+AND,Andorra,Andorre
+ARE,United Arab Emirates*,Émirats arabes unis*
+ARG,Argentina,Argentine
+ARM,Armenia,Arménie
+ATG,Antigua and Barbuda,Antigua-et-Barbuda
+AUS,Australia,Australie
+AUT,Austria,Autriche
+AZE,Azerbaijan*,Azerbaïdjan*
+BDI,Burundi,Burundi
+BEL,Belgium,Belgique
+BEN,Benin,Bénin
+BFA,Burkina Faso,Burkina Faso
+BGD,Bangladesh,Bangladesh
+BGR,Bulgaria,Bulgarie
+BHR,Bahrain*,Bahreïn*
+BHS,Bahamas,Bahamas
+BIH,Bosnia and Herzegovina,Bosnie-Herzégovine
+BLR,Belarus,Bélarus
+BLZ,Belize,Belize
+BOL,Bolivia*,Bolivie*
+BRA,Brazil,Brésil
+BRB,Barbados,Barbade
+BRN,Brunei Darussalam*,Brunei Darussalam*
+BTN,Bhutan,Bhoutan
+BWA,Botswana*,Botswana*
+CAF,Central African Republic,République centrafricaine
+CAN,Canada,Canada
+CHE,Switzerland,Suisse
+CHL,Chile*,Chili*
+CHN,China,Chine
+CIV,Côte d’Ivoire,Côte d’Ivoire
+CMR,Cameroon,Cameroun
+COD,DR Congo*,DR Congo*
+COG,Congo*,Congo*
+COL,Colombia,Colombie
+COM,Comoros,Comores
+CPV,Cabo Verde,Cabo Verde
+CRI,Costa Rica,Costa Rica
+CUB,Cuba,Cuba
+CYP,Cyprus,Chypre
+CZE,Czech Republic,République tchèque
+DEU,Germany,Allemagne
+DJI,Djibouti,Djibouti
+DMA,Dominica,Dominique
+DNK,Denmark,Danemark
+DOM,Dominican Republic,République dominicaine
+DZA,Algeria*,Algérie*
+ECU,Ecuador,Équateur
+EGY,Egypt,Égypte
+ERI,Eritrea*,Érythrée*
+ESP,Spain,Espagne
+EST,Estonia,Estonie
+ETH,Ethiopia,Éthiopie
+FIN,Finland,Finlande
+FJI,Fiji,Fidji
+FRA,France,France
+FSM,Micronesia,Micronésie
+GAB,Gabon*,Gabon*
+GBR,United Kingdom,Royaume-Uni
+GEO,Georgia,Géorgie
+GHA,Ghana,Ghana
+GIN,Guinea*,Guinée*
+GMB,Gambia,Gambie
+GNB,Guinea-Bissau,Guinée-Bissau
+GNQ,Equatorial Guinea*,Guinée équatoriale*
+GRC,Greece,Grèce
+GRD,Grenada,Grenade
+GTM,Guatemala,Guatemala
+GUY,Guyana*,Guyana*
+HND,Honduras,Honduras
+HRV,Croatia,Croatie
+HTI,Haiti,Haïti
+HUN,Hungary,Hongrie
+IDN,Indonesia,Indonésie
+IND,India,Inde
+IRL,Ireland,Irlande
+IRN,Iran,Iran
+IRQ,Iraq*,Iraq*
+ISL,Iceland,Islande
+ISR,Israel,Israël
+ITA,Italy,Italie
+JAM,Jamaica,Jamaïque
+JOR,Jordan,Jordanie
+JPN,Japan,Japon
+KAZ,Kazakhstan*,Kazakhstan*
+KEN,Kenya,Kenya
+KGZ,Kyrgyzstan,Kirghizistan
+KHM,Cambodia,Cambodge
+KIR,Kiribati,Kiribati
+KNA,Saint Kitts and Nevis,Saint-Kitts-et-Nevis
+KOR,Korea,Corée
+KWT,Kuwait*,Koweït*
+LAO,Lao PDR,RDP lao
+LBN,Lebanon,Liban
+LBR,Liberia*,Libéria*
+LBY,Libya*,Libye*
+LCA,Saint Lucia,Sainte-Lucie
+LIE,Liechtenstein,Liechtenstein
+LKA,Sri Lanka,Sri Lanka
+LSO,Lesotho,Lesotho
+LTU,Lithuania,Lituanie
+LUX,Luxembourg,Luxembourg
+LVA,Latvia,Lettonie
+MAR,Morocco,Maroc
+MCO,Monaco,Monaco
+MDA,Moldova,Moldova
+MDG,Madagascar,Madagascar
+MDV,Maldives,Maldives
+MEX,Mexico,Mexique
+MHL,Marshall Islands*,Îles Marshall*
+MKD,North Macedonia,Macédoine du Nord
+MLI,Mali,Mali
+MLT,Malta*,Malte*
+MMR,Myanmar,Myanmar
+MNE,Montenegro,Monténégro
+MNG,Mongolia*,Mongolie*
+MOZ,Mozambique*,Mozambique*
+MRT,Mauritania*,Mauritanie*
+MUS,Mauritius,Maurice
+MWI,Malawi,Malawi
+MYS,Malaysia*,Malaisie*
+NAM,Namibia*,Namibie*
+NER,Niger,Niger
+NGA,Nigeria*,Nigéria*
+NIC,Nicaragua,Nicaragua
+NLD,Netherlands,Pays-Bas
+NOR,Norway*,Norvège*
+NPL,Nepal,Népal
+NRU,Nauru*,Nauru*
+NZL,New Zealand,Nouvelle-Zélande
+OMN,Oman*,Oman*
+PAK,Pakistan,Pakistan
+PAN,Panama,Panama
+PER,Peru,Pérou
+PHL,Philippines,Philippines
+PLW,Palau,Palaos
+PNG,Papua New Guinea*,Papouasie-Nouvelle-Guinée*
+POL,Poland,Pologne
+PRK,DPRK,RPDC
+PRT,Portugal,Portugal
+PRY,Paraguay,Paraguay
+QAT,Qatar*,Qatar*
+ROU,Romania,Roumanie
+RUS,Russia*,Russie*
+RWA,Rwanda,Rwanda
+SAU,Saudi Arabia*,Arabie saoudite*
+SDN,Sudan,Soudan
+SEN,Senegal,Sénégal
+SGP,Singapore*,Singapour*
+SLB,Solomon Islands,Îles Salomon
+SLE,Sierra Leone*,Sierra Leone*
+SLV,El Salvador,El Salvador
+SMR,San Marino,Saint-Marin
+SOM,Somalia,Somalie
+SRB,Serbia,Serbie
+SSD,South Sudan*,Soudan du Sud*
+STP,São Tomé and Príncipe,São Tomé and Príncipe
+SUR,Suriname*,Suriname*
+SVK,Slovak Republic,République slovaque
+SVN,Slovenia,Slovénie
+SWE,Sweden,Suède
+SWZ,Eswatini,Eswatini
+SYC,Seychelles,Seychelles
+SYR,Syria,Syrie
+TCD,Chad*,Tchad*
+TGO,Togo*,Togo*
+THA,Thailand,Thaïlande
+TJK,Tajikistan,Tadjikistan
+TKM,Turkmenistan*,Turkménistan*
+TLS,Timor-Leste,Timor-Leste
+TON,Tonga,Tonga
+TTO,Trinidad and Tobago*,Trinité-et-Tobago*
+TUN,Tunisia,Tunisie
+TUR,Turkey,Turquie
+TUV,Tuvalu,Tuvalu
+TZA,UR of Tanzania,UR of Tanzania
+UGA,Uganda,Ouganda
+UKR,Ukraine,Ukraine
+URY,Uruguay,Uruguay
+USA,United States,États-Unis
+UZB,Uzbekistan,Ouzbékistan
+VCT,Saint Vincent and the Grenadines,Saint-Vincent-et-les-Grenadines
+VEN,Venezuela*,Venezuela*
+VNM,Viet Nam,Viet Nam
+VUT,Vanuatu,Vanuatu
+WSM,Samoa,Samoa
+YEM,Yemen*,Yémen*
+ZAF,South Africa,Afrique du Sud
+ZMB,Zambia*,Zambie*
+ZWE,Zimbabwe,Zimbabwe
