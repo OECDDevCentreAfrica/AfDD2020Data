@@ -1,68 +1,151 @@
 IndCode,Indicator (EN),Indicateur (FR)
 Population,Population (thousands),Population (en milliers)
-PPPGDP,Nominal gross domestic product in purchasing-power-parity dollars,Produit intérieur brut nominal en dollars US en parité de pouvoir d'achat
-NGDPD,Gross domestic product in U.S. dollars,Produit intérieur brut en dollars américains
-RealGDPGrowth,Real GDP Growth (%),Croissance réelle du PIB (%)
+PPPGDP,Nominal gross domestic product in purchasing-power-parity dollars (millions),Produit intérieur brut nominal en dollars US en parité de pouvoir d'achat
+NGDPD,Gross domestic product in U.S. dollars (millions),Produit intérieur brut en dollars américains
+RealGDPGrowth,Real GDP growth (%),Croissance réelle du PIB (%)
 PPPPC,GDP in purchasing power parity (PPP) dollars per capita,PIB en parité de pouvoir d'achat (PPA) en dollars US par habitant
-EmpPopTot,Employment as % of population 15+,Emploi en % de la population de 15 ans et plus
-SIPOVGINI,Gini coefficient (World Bank estimate),Coefficient de Gini (estimations de la Banque Mondiale)
+EmpRateTot,Employment as a % of population 15+,Emploi en % de la population âgée de 15 ans et plus
+GINI,Gini coefficient (World Bank estimate),Coefficient de Gini (estimations de la Banque Mondiale)
 PovHC190,% of population in extreme poverty ($1.90 a day),% de la population en extrême pauvreté ($1.90 par jour)
 HDI,Human development index (HDI),Indice de développement humain (IDH)
 IHDI,Inequality-adjusted HDI (IHDI),Indice de développement humain ajusté selon les inégalités (IDHI)
+RealGDPGrowth,Real GDP growth (%),Croissance réelle du PIB (%)
 PopGrwth,Population growth (%),Croissance de la population (%)
 RlGDPPrCpGr,Real GDP Growth Per Capita (%),Croissance réelle du PIB par habitant (%)
-NYGDPPETRRTZS,Oil rents (% of GDP),Bénéfices tirés du pétrole (% du PIB)
-NYGDPMINRRTZS,Mineral rents (% of GDP),Bénéfices tirés des minéraux (% du PIB)
-NYGDPTOTLRTZS,Total natural resources rents (% of GDP),Total des bénéfices tirés des ressources naturelles (% du PIB)
-NVAGRTOTLZS,"Agriculture, forestry, and fishing, value added (% of GDP)","Agriculture, sylviculture et pêche, valeur ajoutée (% du PIB)"
-NVINDMANFZS,"Manufacturing, value added (% of GDP)","Fabrication, valeur ajoutée (% du PIB)"
-NVINDTOTLZS,"Industry (including construction), value added (% of GDP)","Industrie (y compris construction), valeur ajoutée (% du PIB)"
-NVSRVTOTLZS,"Services, value added (% of GDP)","Services, valeur ajoutée (% du PIB)"
-EmpAgr,Employment in agriculture as % of total,Emploi dans l'agriculture en % du total
-EmpInd,Employment in industry as % of total,Emploi dans l'industrie en % du total
-EmpManf,Employment in manufacturing as % of total,Emploi dans la fabrication en % du total
-EmpServ,Employment in services as % of total,Emploi dans les services en % du total
-consumptionp,"Consumption, private (% of GDP growth)",Consommation privée (% de croissance du PIB)
-consumptiong,"Consumption, public (% of GDP growth)",Consommation publique (% de croissance du PIB)
-fcapp,"Gross fixed capital formation, private (% of GDP growth)","Formation brute de capital fixe, privé (% de croissance du PIB)"
-fcapg,"Gross fixed capital formation, public (% of GDP growth)",Formation brute de capital fixe publique (% de croissance du PIB)
-exbalance,External balance (% of GDP growth),Solde extérieur (% de croissance du PIB)
-GGRPG,General government revenue as % of GDP,Recettes des administrations publiques en % du PIB
-GGRTPG,General government taxes as % of GDP,Impôts des administrations publiques en % du PIB
-GGRGPG,"General government revenue, grants as % of GDP","Recettes des administrations publiques, dons en % du PIB"
-GGRCPG,General government commodity-related revenues as % of GDP,Recettes des administrations publiques liées aux produits de base en % du PIB
-GGXPG,General government expenditure as % of GDP,Total des dépenses des administrations publiques en % du PIB
-GGRTIPG,"General government taxes on income, profits, and capital gains as % of GDP","Impôts des administrations publiques sur revenus, bénéfices et gains en capital en % du PIB"
-GGRSSPG,"General government revenue, social security contributions as % of GDP","Recettes des administrations publiques, cotisations de sécurité sociale en % du PIB"
-GGRTGSPG,General government taxes on goods and services as % of GDP,Impôts des administrations publiques sur les biens et services en % du PIB
-GGRTTPG,General government taxes on international trade and transactions as % of GDP,Impôts des administrations publiques sur les échanges internationaux en % du PIB
-GGXWDGPG,General government gross debt as % of GDP,Dette brute des administrations publiques en % du PIB
-PovHC320,% of population below LMIC poverty rates ($3.20 a day),"% de la population vivant sous le seuil de pauvreté des PRMI (3.20 par jour, mesure la plus récente 2009-"
-PovHC550,% of population below UMIC poverty rates ($5.50 a day),"% de la population vivant sous le taux de pauvreté PRMS ($5.50 par jour, mesure la plus récente 2009-1"
-SIDST05TH20,Income share held by the 20% of the population with highest incomes,Part des revenus détenus par les 20% de la population ayant les revenus les plus élevés
-GDI,Gender Development Index (GDI),Indice de développement de genre (IDG)
-GII,Gender Inequality Index (GII),L'Indice d'inégalités de genre (IIG)
-SIGI,Social Institutions and Gender Index (SIGI) 2019,Indicateur Institutions Sociales et Égalité Femmes-Hommes (SIGI) 2019
-SIGIFAM,Discrimination in the family (SIGI subindex) 2019,Discriminations au sein de la famille (sous-indice SIGI) 2019
-SIGIPHYS,Restricted physical integrity (SIGI subindex) 2019,Atteintes à l'intégrité physique (sous-indice SIGI) 2019
-SIGIRES,Restricted access to productive and financial resources (SIGI subindex) 2019,Accès restreint aux ressources productives et financières (sous-indice SIGI) 2019
-SIGICIV,Restricted civil liberties (SIGI subindex) 2019,Atteintes aux libertés civiles (sous-indice SIGI) 2019
-EmpPopMale,Employment as % of population 15+ (Males),Emploi en % de la population de 15 ans et plus (hommes)
-EmpPopFemale,Employment as % of population 15+ (Females),Emploi en % de la population de 15 ans et plus (femmes)
+PopUrban,Urban Population (thousands),Population urbaine (milliers)
+PopRural,Rural Population (thousands),Population rurale (milliers)
+IntermCitPop,"Population living in urban agglomerations of 300,000 to 1 million inhabitants (thousands)","Population vivant dans des agglomérations urbaines de 300,000 à un million d'habitants (milliers)"
+IntermCitNum,"Number of urban agglomerations of 300,000 to 1 million inhabitants",Nombre d'agglomérations urbaines de 300 000 à un million d'habitants
+PrimCitPop,Population living in urban agglomerations of over 1 million inhabitants (thousands),Population vivant dans des agglomérations urbaines de plus d'un million d'habitants (milliers)
+PrimCitNum,Number of urban agglomerations of over 1 million inhabitants,Nombre d'agglomérations urbaines de plus d'un million d'habitants
+OldDepRatio,Old-age dependency ratio 65+/(15-64)*100,Taux de dépendance des personnes âgées 65+/(15-64)*100
+ChildDepRatio,Child dependency ratio <15/(15-64)*100,Taux de dépendance des enfants à charge <15/(15-64)*100
+TotDepRatio,Total dependency ratio (Child dependency ratio + Old-age dependency ratio),Taux de dépendance total (taux de dépendance des enfants à charge + taux de dépendance des personnes âgées)
+LitRt15T24,"Youth literacy rate, population 15-24 years, both sexes (%)","Taux d'alphabétisation des jeunes de 15 à 24 ans, les deux sexes (%)"
+LitRt15T24F,"Youth literacy rate, population 15-24 years, female (%)","Taux d'alphabétisation des jeunes de 15 à 24 ans, de sexe féminin (%)"
+LitRt15T24M,"Youth literacy rate, population 15-24 years, male (%)","Taux d'alphabétisation des jeunes de 15 à 24 ans, de sexe masculin (%)"
+LitRt15T24GPIA,"Youth literacy rate, population 15-24 years, adjusted gender parity index (GPIA)","Taux d'alphabétisation des jeunes de 15 à 24 ans, indice ajusté de parité entre les sexes (IPSA)"
+LitRt15T99,"Adult literacy rate, population 15+ years, both sexes (%)","Taux d'alphabétisation de la population âgée de 15 ans et plus, les deux sexes (%)"
+LitRt15T99F,"Adult literacy rate, population 15+ years, female (%)","Taux d'alphabétisation de la population âgée de 15 ans et plus, de sexe féminin (%)"
+LitRt15T99M,"Adult literacy rate, population 15+ years, male (%)","Taux d'alphabétisation de la population âgée de 15 ans et plus, de sexe masculin (%)"
+LitRt15T99GPIA,"Adult literacy rate, population 15+ years, adjusted gender parity index (GPIA)","Taux d'alphabétisation de la population âgée de 15 ans et plus, indice ajusté de parité hommes-femmes (IPSA)"
+WittMedLowEd15PL,Percentage of population 15+ with less than primary education (medium scenario),Pourcentage de la population de 15 ans et plus n'ayant pas atteint le niveau primaire (scénario moyen)
+WittMedPrim15PL,Percentage of population 15+ with primary but not secondary education (medium scenario) ,Pourcentage de la population de 15 ans et plus ayant une éducation primaire mais pas secondaire (scénario moyen)
+WittMedScndPL15PL,Percentage of population 15+ with at least secondary education (medium scenario),Pourcentage de la population de 15 ans et plus ayant au moins une éducation secondaire (scénario moyen)
+WittAcclLowEd15PL,Percentage of population 15+ with less than primary education (accelerated scenario),Pourcentage de la population âgée de 15 ans et plus n'ayant pas terminé l'enseignement primaire (scénario accéléré)
+WittAcclPrim15PL,Percentage of population 15+ with primary but not secondary education (accelerated scenario) ,Pourcentage de la population âgée de 15 ans et plus ayant une éducation primaire mais pas secondaire (scénario accéléré)
+WittAcclScndPL15PL,Percentage of population 15+ with at least secondary education (accelerated scenario),Pourcentage de la population âgée de 15 ans et plus ayant au moins une éducation secondaire (scénario accéléré)
+WittMedLowEd1529,Percentage of population aged 15-29 with less than primary education (medium scenario) ,Population âgée de 15 à 29 ans n'ayant pas atteint le niveau primaire (scénario moyen)
+WittMedPrim1529,Percentage of population aged 15-29 with primary but not secondary education (medium scenario),Population âgée de 15 à 29 ans ayant une éducation primaire mais pas secondaire (scénario moyen)
+WittMedScndPL1529,Percentage of population aged 15-29 with at least secondary education (medium scenario) ,Population âgée de 15 à 29 ans ayant au moins une éducation secondaire (scénario moyen)
+WittAcclLowEd1529,Percentage of population aged 15-29 with less than primary education (accelerated scenario) ,Population âgée de 15 à 29 ans n'ayant pas atteint le niveau primaire (scénario accéléré)
+WittAcclPrim1529,Percentage of population aged 15-29 with primary but not secondary education (accelerated scenario),Population âgée de 15 à 29 ans ayant une éducation primaire mais pas secondaire (scénario accéléré)
+WittAcclScndPL1529,Percentage of population aged 15-29 with at least secondary education (accelerated scenario) ,Population âgée de 15 à 29 ans ayant au moins une éducation secondaire (scénario accéléré)
+EmpRateFemale,"Employment as a % of population 15+, females","Emploi en % de la population âgée de 15 ans et plus, de sexe féminin"
+EmpRateMale,"Employment as a % of population 15+, males","Emploi en % de la population âgée de 15 ans et plus, de sexe masculin"
 VulnRate,Percentage of workers in vulnerable employment,Pourcentage de travailleurs ayant un emploi vulnérable
-ExpUnproc,Total exports of unprocessed goods (millions of USD),Exportations totales de produits non transformés (millions de dollars US)
-ExpSemiProc,Total exports of semi-processed goods (millions of USD),Exportations totales de produits semi-transformés (millions de dollars US)
-ExpFullyProc,Total exports of fully processed goods (millions of USD),Total des exportations de produits transformés (millions de dollars US)
-ExpAllProc,Total exports of processed and unprocessed goods (millions of USD),Exportations totales de produits transformés et non transformés (millions de dollars US)
+Employees,Percentage of workers aged 15+ classified as employees,Pourcentage de travailleurs âgés de 15 ans et plus classés comme salariés
+Employers,Percentage of workers aged 15+ classified as employers,Pourcentage de travailleurs âgés de 15 ans et plus classés comme employeurs
+OwnAccount,Percentage of workers aged 15+ classified as own-account workers,Pourcentage de travailleurs âgés de 15 ans et plus classés comme travailleurs à leur propre compte
+ContribFamily,Percentage of workers aged 15+ classified as contributing family workers,Pourcentage de travailleurs âgés de 15 ans et plus classés comme travailleurs familiaux contributeurs
+OilRent,Oil rents (% of GDP),Rente pétroliere (% du PIB)
+MinRent,Mineral rents (% of GDP),Rente tirée des minéraux (% du PIB)
+TotNRRent,Total natural resources rents (% of GDP),Rente tirée des ressources naturelles totales (% du PIB)
+AgrFrPerGDP,"Agriculture, hunting, forestry, fishing: value added (% of GDP)","Agriculture, chasse, sylviculture, pêche: valeur ajoutée (% du PIB)"
+MnIndPerGDP,"Mining, Manufacturing, Utilities: value added (% of GDP)","Mines, fabrication, services publics: valeur ajoutée (% du PIB)"
+CnstrPerGDP,Construction: value added (% of GDP),Construction: valeur ajoutée (% du PIB)
+TrdHsPerGDP,"Wholesale, retail trade, restaurants and hotels: value added (% of GDP)","Commerce de gros, commerce de détail, restaurants et hôtels: valeur ajoutée (% du PIB)"
+TnsCmPerGDP,"Transport, storage and communication: value added (% of GDP)","Transport, stockage et communication: valeur ajoutée (% du PIB)"
+OtherPerGDP,Other activities: value added (% of GDP),Autres activités: valeur ajoutée (% du PIB)
+ManufPerGDP,Manufacturing (included in industry): value added (% of GDP),Fabrication (incluse dans l'industrie): valeur ajoutée (% du PIB)
+AgrEmpPerTot,Employment in agriculture as a % of total,Emploi dans l'agriculture en % du total
+IndEmpPerTot,Employment in industry as a % of total,Emploi dans l'industrie en % du total
+SrvEmpPerTot,Employment in services as a % of total,Emploi dans les services en % du total
+ManfEmpPerTot,Employment in manufacturing (incl. in industry) as a % of total,Emploi dans le secteur manufacturier (y compris dans l'industrie) en % du total
+PovHC320,% of population below LMIC poverty rates ($3.20 a day),"% de la population vivant sous 3.20 USD par jour, le seuil de pauvreté des pays à revenu intermédiaire de la tranche inférieure"
+PovHC550,% of population below UMIC poverty rates ($5.50 a day),"% de la population vivant sous 3.20 USD par jour, le seuil de pauvreté des pays à revenu intermédiaire de la tranche supérieure"
+ShareTop20,Income share held by the 20% of the population with highest incomes,Part des revenus détenus par les 20% de la population ayant les revenus les plus élevés (estimation de la Banque mondiale)
+WrkPovRate15PL,"Working poverty rate, both sexes (population 15+)","Taux de pauvreté des travailleurs, les deux sexes (population de 15 ans et plus)"
+WrkPovRateFem15PL,"Working poverty rate, females (population 15+)","Taux de pauvreté des travailleurs, de sexe féminin (population de 15 ans et plus)"
+WrkPovRateMal15PL,"Working poverty rate, males (population 15+)","Taux de pauvreté des travailleurs, de sexe masculin (population de 15 ans et plus)"
+WrkPovRate1529,"Working poverty rate, both sexes (population 15-29)","Taux de pauvreté des travailleurs, les deux sexes (population de 15 à 29 ans)"
+WrkPovRateFem1529,"Working poverty rate, females (population 15-29)","Taux de pauvreté des travailleurs, de sexe féminin (population de 15 à 29 ans)"
+WrkPovRateMal1529,"Working poverty rate, males (population 15-29)","Taux de pauvreté des travailleurs, de sexe masculin (population de 15 à 29 ans)"
+OutputPerWrkPPP,Output per worker (GDP constant 2011 international $ in PPP),Production par travailleur (PIB en dollars internationaux constants de 2011 en PPA)
+GDI,Gender Development Index (GDI),Indice de développement de genre (IDG)
+GII,Gender Inequality Index (GII),L'Indice d'inégalité de genre (IIG)
+SIGI,Social Institutions and Gender Index (SIGI) 2019,Indicateur Institutions Sociales et Égalité Femmes-Hommes (SIGI)
+SIGIFAM,Discrimination in the family (SIGI subindex) 2019,Discriminations au sein de la famille (sous-indice SIGI)
+SIGIPHYS,Restricted physical integrity (SIGI subindex) 2019,Atteintes à l'intégrité physique (sous-indice SIGI)
+SIGICIV,Restricted civil liberties (SIGI subindex) 2019,Atteintes aux libertés civiles (sous-indice SIGI)
+SIGIRES,Restricted access to productive and financial resources (SIGI subindex) 2019,Accès restreint aux ressources productives et financières (sous-indice SIGI)
+IntntSubsPer100,Fixed(wired)-broadband subscriptions per 100 inhabitants,Abonnements Internet à haut débit fixe
+IntntUsePct,Percentage of the population using the Internet,Pourcentage de la population utilisant l'Internet
+MobileSubsPer100,Mobile-cellular telephone subscriptions per 100 inhabitants,Abonnements téléphone mobile et cellulaire par 100 habitants
+PhoneSubsPer100,Fixed-telephone subscriptions per 100 inhabitants,Abonnements téléphone fixe par 100 habitants
+MobBBSubsPer100,Mobile-broadband subscriptions per 100 inhabitants,Abonnements haut débit mobile pour 100 habitants
+IntlBBSpeedMBits,"International bandwidth, in megabytes per second","Bande passante internationale, en mégaoctets par seconde"
+GSMA4GCov,Percentage of inhabitants that live within 4G mobile technology coverage,Pourcentage d'habitants vivant dans une zone couverte par la technologie mobile 4G
+IntntAccss,Access to internet (% of population aged 15+),"Accès à Internet (% de la population âgée de 15 ans et plus), 2016-18"
+OwnWSitLrgFm,Percentage of large firms using their own website,Pourcentage de grandes entreprises utilisant leur propre site Web
+OwnWSitMedFm,Percentage of medium-sized firms using their own website,Pourcentage d'entreprises de taille moyenne utilisant leur propre site Web
+OwnWSitSmlFm,Percentage of small firms using their own website,Pourcentage de petites entreprises utilisant leur propre site Web
+OwnWSitTotFm,Percentage of firms of all sizes using their own website,Pourcentage d'entreprises de toutes tailles utilisant leur propre site Web
+EmailLrgFm,Percentage of large firms using email to interact with clients/suppliers,Pourcentage de grandes entreprises utilisant le courrier électronique pour interagir avec leurs clients / fournisseurs
+EmailMedFm,Percentage of medium-sized firms using email to interact with clients/suppliers,Pourcentage d'entreprises de taille moyenne utilisant le courrier électronique pour interagir avec leurs clients / fournisseurs
+EmailSmlFm,Percentage of small firms using email to interact with clients/suppliers,"Pourcentage de petites entreprises utilisant le courrier électronique pour interagir avec les clients / fournisseurs, mesure la plus récente"
+EmailTotFm,Percentage of firms of all sizes using email to interact with clients/suppliers,Pourcentage d'entreprises de toutes tailles utilisant le courrier électronique pour interagir avec les clients / fournisseurs
+ExpICTSrv,"Total exports of ICT services, millions of USD","Exportations totales de services TIC, millions USD"
+ExpICTSrvPrp,Percentage of total trade in services,Pourcentage du commerce total des services
+ExpDigSrv,"Total exports of digital services, millions of USD","Exportations totales de services numériques, millions USD"
+ExpDigSrvPrp,Exports of digital services as a % of total exports,Exportations de services numériques en % des exportations totales
+B2CDevInd,UNCTAD B2C E-commerce Index,Indice du commerce électronique B2C de la CNUCED
+LifeExpTot,Life expectancy at birth (years),Espérance de vie à la naissance (années)
+LifeExpMal,Male life expectancy at birth (years),Espérance de vie des hommes à la naissance (années)
+LifeExpFem,Female life expectancy at birth (years),Espérance de vie des femmes à la naissance (années)
+TotFert,Total fertility (live births per woman),Taux de fécondité (naissances vivantes par femme)
+Mort01,"Infant mortality rate (infant deaths per 1,000 live births)","Taux de mortalité infantile (décès infantiles pour 1,000 naissances vivantes)"
+Mort05,"Under-five mortality (deaths under age five per 1,000 live births)","Mortalité des moins de cinq ans (décès des moins de cinq ans pour 1,000 naissances vivantes)"
+Mort40,"Probability of dying before age 40 (deaths under age 40 per 1,000 live births)",Probabilité de mourir avant 40 ans (morts avant l'âge de 40 ans pour 1 000 naissances vivantes)
+GHI,Global Hunger Index,Indice de la faim dans le monde
+LifeLadder,Cantril life ladder,Échelle de satisfaction existentielle Cantril
+NegativeAffect,Negative affect,Affect négatif
+PositiveAffect,Positive affect,Affect positif
+FreedomLife,Freedom to make life choices,Liberté de faire des choix de vie
+Generosity,Generosity,Générosité
+SocialSupp,Social support,Soutien sociale
+GrthDCmpNCP,"Consumption, private (% of GDP growth)",Consommation privée (% de croissance du PIB)
+GrthDCmpNCG,"Consumption, public (% of GDP growth)",Consommation publique (% de croissance du PIB)
+GrthDCmpNFIP,"Gross fixed capital formation, private (% of GDP growth)","Formation brute de capital fixe, privé (% de croissance du PIB)"
+GrthDCmpNFIG,"Gross fixed capital formation, public (% of GDP growth)",Formation brute de capital fixe publique (% de croissance du PIB)
+GrthDCmpNX,"Exports of goods and services, current prices (% of GDP growth)","Exportations des biens et services, prix courants (% de croissance du PIB)"
+GrthDCmpNM,"Imports of goods and services, current prices (% of GDP growth)","Importations de biens et services, prix courants (% de croissance du PIB)"
+GrthDCmpNFB,"Foreign balance, current prices (% of GDP growth)","Balance extérieure, prix courants (% de croissance du PIB)"
+GovRevPerGDP,General government revenue as a % of GDP,Recettes des administrations publiques en % du PIB
+TaxPerGDP,General government taxes as a % of GDP,Impôts des administrations publiques en % du PIB
+GrantsPerGDP,"General government revenue, grants as a % of GDP","Recettes des administrations publiques, dons en % du PIB"
+CommodityPerGDP,General government commodity-related revenues as a % of GDP,Recettes des administrations publiques liées aux produits de base en % du PIB
+TaxIncPerGDP,"General government taxes on income, profits, and capital gains as a % of GDP","Impôts des administrations publiques sur revenus, bénéfices et gains en capital en % du PIB"
+TaxGdsSrvPerGDP,General government taxes on goods and services as a % of GDP,Impôts des administrations publiques sur les biens et services en % du PIB
+TaxTradePerGDP,General government taxes on international trade and transactions as a % of GDP,Impôts des administrations publiques sur les échanges internationaux en % du PIB
+ExpendPerGDP,General government expenditure as a % of GDP,Total des dépenses des administrations publiques en % du PIB
+GrossDebtPerGDP,General government gross debt as a % of GDP,Dette brute des administrations publiques en % du PIB
+ExpUnproc,Total exports of unprocessed goods (millions of USD),Exportations totales de produits non transformés (millions USD)
+ExpSemiProc,Total exports of semi-processed goods (millions of USD),Exportations totales de produits semi-transformés (millions USD)
+ExpFullyProc,Total exports of fully processed goods (millions of USD),Total des exportations de produits transformés (millions USD)
+ExpAllProc,Total exports of processed and unprocessed goods (millions of USD),Exportations totales de produits transformés et non transformés (millions USD)
 ImpUnproc,Total imports of unprocessed goods (millions of USD),Importations totales de produits non transformés (millions de dollars US)
 ImpSemiProc,Total imports of semi-processed goods (millions of USD),Importations totales de produits semi-transformés (millions de dollars US)
 ImpFullyProc,Total imports of fully processed goods (millions of USD),Importations totales de produits transformés (millions de dollars US)
 ImpAllProc,Total imports of processed and unprocessed goods (millions of USD),Importations totales de produits transformés et non transformés (millions de dollars US)
-HerfIndex,Herfindahl Concentration Index of exports,Indice de Herfindahl de concentration des exportations
-HerfIndexNorm,Normalized Herfindahl Concentration Index of exports,Indice de Herfindahl de concentration des exportations normalisé
-TotExpPerGDP,Value of total exports of goods and services as % of GDP,Valeur totale des exportations de biens et services en % du PIB
+ExpProdPct1,% of exports ascribed to 4-digit HS96 product category with highest level of exports,% des exportations attribuées à la catégorie de produits SH96 à 4 chiffres avec le plus haut niveau d'exportations
+ExpProdPct2,% of exports ascribed to 4-digit HS96 product category with the second highest level of exports,% des exportations attribuées à la catégorie de produits SH96 à 4 chiffres avec le deuxième niveau d'exportations le plus élevé
+ExpProdPct3,% of exports ascribed to 4-digit HS96 product category with the third highest level of exports,% des exportations attribuées à la catégorie de produits SH96 à 4 chiffres avec le troisième niveau d'exportations le plus élevé
+ExpProdPct4,% of exports ascribed to 4-digit HS96 product category with the fourth highest level of exports,% des exportations attribuées à la catégorie de produits SH96 à 4 chiffres avec le quatrième niveau d'exportations le plus élevé
+ExpProdPct5,% of exports ascribed to 4-digit HS96 product category with the fifth highest level of exports,% des exportations attribuées à la catégorie de produits SH96 à 4 chiffres avec le cinquième niveau d'exportations le plus élevé
 NumPrdU75,Number of products amounting to 75% of total exports,Nombre de produits exportés représentant 75% des exportations totales
 NumPrdU90,Number of products amounting to 90% of total exports,Nombre de produits exportés représentant 90% des exportations totales
+TotExpPerGDP,Value of total exports of goods and services as a % of GDP,Valeur totale des exportations de biens et services en % du PIB
 RECExpPct,"Exports to countries in same REC, as a % of total Exports","Exportations vers les pays de la même CER, en % du total des exportations"
 AUCRegExpPct,"Exports to countries in same AUC Region, as a % of total Exports","Exportations vers les pays de la même région de la CUA, en % du total des exportations"
 ContExpPct,"Exports to countries in same continent, as a % of total Exports","Exportations vers les pays du même continent, en % du total des exportations"
@@ -72,51 +155,29 @@ USAExpPct,"Exports to USA, as a % of total Exports","Exportations vers les États
 IntraCont,Intra-continental trade in intermediate goods (millions of USD),Commerce intra-continental de biens intermédiaires (millions de dollars US)
 ExtraCont,Extra-continental trade in intermediate goods (millions of USD),Commerce extra-continental de biens intermédiaires (millions de dollars US)
 PercIntra,Intra-continental trade in intermediate goods as a % of all trade in intermediate goods,Commerce intra-continental de biens intermédiaires en % du total des échanges de biens intermédiaires
-BFPLBP6PGD,Portfolio investment inflows as % of GDP,Entrées d'investissement de portefeuille en % du PIB
-ODAPGD,Net Official Development Assistance (ODA) inflows as % of GDP,Apports nets d'aide publique au développement (APD) en % du PIB
-UNCTADFDIPGD,Foreign Direct Investment (FDI) inflows as % of GDP,Entrées d’investissement direct étranger (IDE) en % du PIB
-RemitPGD,Remittances inflows as % of GDP,Entrées de fonds privées en % du PIB
-TotalFinInflowsPGD,Total financial inflows as a % of GDP,Entrées de capitaux totales en % du PIB
-BFPLBP6,Portfolio investment inflows (millions of USD),Entrées d'investissement de portefeuille (millions de dollars US)
-ODA,Net Official Development Assistance (ODA) inflows (millions of USD),Apports nets d'aide publique au développement (APD) (millions de dollars US)
-UNCTADFDI,Foreign Direct Investment (FDI) inflows (millions of USD),Entrées d’investissement direct étranger (IDE) (millions de dollars US)
-Remit,Remittances inflows (millions of USD),Entrées de fonds privées (millions de dollars US)
-TotalFinInflows,Total financial inflows (millions of USD),Entrées de capitaux totales (millions de dollars US)
-PopUrban,Urban Population (thousands),Population urbaine (milliers)
-PopRural,Rural Population (thousands),Population rurale (milliers)
-IntermCitPop,"Population living in urban agglomerations of 300,000 to 1 million inhabitants (thousands)","Population vivant dans des agglomérations urbaines de 300,000 à plus d'un million d'habitants"
-IntermCitNum,"Number of urban agglomerations of 300,000 to 1 million inhabitants",Nombre d'agglomérations urbaines de 300 000 à plus d'un million d'habitants
-PrimCitPop,Population living in urban agglomerations of over 1 million inhabitants (thousands),Population vivant dans des agglomérations urbaines de plus d'un million d'habitants
-PrimCitNum,Number of urban agglomerations of over 1 million inhabitants,Nombre d'agglomérations urbaines de plus d'un million d'habitants
-OldDepRatio,Old-age dependency ratio 65+/(15-64)*100,Taux de dépendance des personnes âgées 65+/(15-64)*100
-ChildDepRatio,Child dependency ratio <15/(15-64)*100,Taux de dépendance des enfants à charge <15/(15-64)*100
-TotDepRatio,Total dependency ratio (Child dependency ratio + Old-age dependency ratio),Taux de dépendance total (taux de dépendance des enfants + taux de dépendance des personnes âgées)
-LifeExpTot,Life expectancy at birth (years),Espérance de vie à la naissance (années)
-LifeLadder,Cantril life ladder,Échelle de satisfaction existentielle Cantril
-NegativeAffect,Negative affect,Affect négatif
-PositiveAffect,Positive affect,Affect positif
-FreedomLife,Freedom to make life choices,Liberté de faire des choix de vie
-SocialSupp,Social support,Soutien sociale
-LifeExpMal,Male life expectancy at birth (years),Espérance de vie des hommes à la naissance (années)
-LifeExpFem,Female life expectancy at birth (years),Espérance de vie des femmes à la naissance (années)
-TotFert,Total fertility (live births per woman),Taux de fécondité (naissances vivantes par femme)
-Mort01,"Infant mortality rate (infant deaths per 1,000 live births)","Taux de mortalité infantile (décès infantiles pour 1,000 naissances vivantes)"
-Mort05,"Under-five mortality (deaths under age five per 1,000 live births)","Mortalité des moins de cinq ans (décès des moins de cinq ans pour 1,000 naissances vivantes)"
-Mort40,"Probability of dying before age 40 (deaths under age 40 per 1,000 live births)",Probabilité de mourir avant 40 ans (morts avant l'âge de 40 ans pour 1 000 naissances vivantes)
-GHI,Global Hunger Index,Indice de la faim dans le monde
-LRAG15T24GPI,"Youth literacy rate, population 15-24 years, gender parity index (GPI)","Taux d'alphabétisation des jeunes de 15 à 24 ans, indice de parité entre les sexes (IPS)"
-LRAG15T24M,"Youth literacy rate, population 15-24 years, male (%)","Taux d'alphabétisation des jeunes de 15 à 24 ans, de sexe masculin (%)"
-LRAG15T99F,"Adult literacy rate, population 15+ years, female (%)","Taux d'alphabétisation des adultes de 15 ans et plus, femmes (%)"
-LRAG15T24F,"Youth literacy rate, population 15-24 years, female (%)","Taux d'alphabétisation des jeunes de 15 à 24 ans, de sexe féminin (%)"
-LRAG15T99GPI,"Adult literacy rate, population 15+ years, gender parity index (GPI)","Taux d'alphabétisation des adultes de 15 ans et plus, indice de parité hommes-femmes (IPS)"
-LRAG15T99,"Adult literacy rate, population 15+ years, both sexes (%)","Taux d'alphabétisation des adultes de 15 ans et plus, les deux sexes (%)"
-LRAG15T99M,"Adult literacy rate, population 15+ years, male (%)","Taux d'alphabétisation des adultes de 15 ans et plus, masculin (%)"
-LRAG15T24,"Youth literacy rate, population 15-24 years, both sexes (%)","Taux d'alphabétisation des jeunes de 15 à 24 ans, les deux sexes (%)"
-IntntSubsPer100,Fixed-broadband subscriptions,Abonnements Internet à haut débit fixe
-IntntUsePct,Percentage of Individuals using the Internet,Pourcentage d'individus utilisant l'Internet
-MobileSubsPer100,Mobile-cellular telephone subscriptions per 100 inhabitants,Abonnements téléphone mobile et cellulaire par 100 habitants
-PhoneSubsPer100,Fixed-telephone subscriptions per 100 inhabitants,Abonnements téléphone fixe par 100 habitants
-CountryArea,Land area in square km,Superficie en km2
-ArabLand,Arable land as % of total land area,Terre arable en % de la superficie totale
-NitFert,Nitrogen fertilizers used for agriculture,Engrais azotés utilisés pour l'agriculture
-NitFertPerHa,Nitrogen Fertilizer used for agriculture per ha of arable land,Engrais azoté utilisé pour l'agriculture par ha de terre arable
+PortfolioInFlPGD,Portfolio investment inflows as a % of GDP,Entrées des investissements de portefeuille en % du PIB
+ODAPGD,Net Official Development Assistance (ODA) inflows as a % of GDP,Entrées nettes d'aide publique au développement (APD) en % du PIB
+UNCTADFDIPGD,Foreign Direct Investment (FDI) inflows as a % of GDP,Entrées d’investissements directs étrangers (IDE) en % du PIB
+RemitPGD,Remittances inflows as a % of GDP,Entrées de transferts des migrants en % du PIB
+TotalFinInflowsPGD,Total financial inflows as a % of GDP,Entrées financières totales en % du PIB
+PortfolioInFl,Portfolio investment inflows (millions of USD),Entrées des investissements de portefeuille (millions USD)
+ODA,Net Official Development Assistance (ODA) inflows (millions of USD),Entrées nettes d'aide publique au développement (APD) (millions USD)
+UNCTADFDI,Foreign Direct Investment (FDI) inflows (millions of USD),Entrées d’investissements directs étrangers (IDE) (millions USD)
+Remit,Remittances inflows (millions of USD),Entrées de transferts des migrants (millions USD)
+TotalFinInflows,Total financial inflows (millions of USD),Entrées financières totales (millions USD)
+CountryArea,Country Area (thousands of ha),Superficie (milliers d'hectares)
+AgricLand,Agricultural land (thousands of ha),Terres agricoles (milliers d'hectares)
+CropLand,Cropland (thousands of ha),Terres cultivées (milliers d'hectares)
+ForestLand,Forest land (thousands of ha),Terres forestières (milliers d'hectares)
+InlndWtrs,Inland waters (thousands of ha),Eaux intérieures (milliers d'hectares)
+AgricProd,Agricultural Production (millions of USD),Production agricole (millions USD)
+CerealProd,Cereal Production (millions of USD),Production céréalière (millions USD)
+CropProd,Crops Production (millions of USD),Production des cultures (millions USD)
+FoodProd,Food Production (millions of USD),Production alimentaire (millions USD)
+LivStkProd,Livestock Production (millions of USD),Production animale (millions USD)
+NFoodProd,Non Food Agricultural Production (millions of USD),Production agricole non alimentaire (millions USD)
+FoodSupp,Food supply (kcal/capita/day),Approvisionnement alimentaire (kcal / habitant / jour)
+NitUse,Agricultural use of nutrient nitrogen (tonnes),Usage agricole d'azote nutritif (tonnes)
+NitUseArea,Agricultural use of nutrient nitrogen per area of cropland (tonnes/ha),Usage agricole d'azote nutritif par superficie de terres cultivées (tonnes / ha)
+CarbStock,"Carbon stock in living biomass (forests, millions of tonnes)","Stock de carbone dans la biomasse vivante (forêts, millions de tonnes)"
+TotAgGHG,Total GHG emissions from agriculture (CO2-equivalent gigagrams),Émissions totales de GES de l'agriculture (gigagrammes d'équivalent CO2)

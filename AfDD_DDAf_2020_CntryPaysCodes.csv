@@ -5,7 +5,7 @@ CntryCode,Countries and groupings (EN),Pays et groupements (FR)
 104,North Africa,Afrique du Nord
 105,West Africa,Afrique de l'Ouest
 110,Africa,Afrique
-120,Latin America and Caribbean,Amérique latine et Caraîbes 
+120,Latin America and Caribbean,Amérique latine et Caraïbes 
 130,Asia (no high inc.),Asie (pays à revenu élevé exclus)
 140,Other developing,Autres pays en developpmeent
 150,High income (no LAC),Pays à revenu élévé (LAC exclus)
@@ -19,7 +19,7 @@ CntryCode,Countries and groupings (EN),Pays et groupements (FR)
 208,UMA,UMA
 211,ASEAN,ASEAN
 212,MERCOSUR,MERCOSUR
-213,EU28,EU28
+213,EU27,EU27
 310,Resource-exporting countries,Pays exportateurs de ressources
 311,"Africa, resource-exporting countries","Afrique, pays exportateurs de ressources"
 319,"ROW, resource-exporting countries","RDM, pays exportateurs de ressources"
